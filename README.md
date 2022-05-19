@@ -1,3 +1,13 @@
+# React-tuto-Country
+
+Hello, there is a little project with countries in React that i made to learn it.
+
+This project strated and his based on [the react tutorial](https://youtu.be/f0X1Tl8aHtA) of From Scratch on youtube.
+
+I continued to play with it and add some option by myself after the first part.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # React-tuto-Country
