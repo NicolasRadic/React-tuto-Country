@@ -2,7 +2,7 @@
 
 Hello, there is a little project with countries in React that i made to learn it.
 
-This project strated and his based on [the react tutorial](https://youtu.be/f0X1Tl8aHtA) of From Scratch on youtube.
+This project strated and is based on [the react tutorial](https://youtu.be/f0X1Tl8aHtA) of From Scratch on youtube.
 
 I continued to play with it and add some option by myself after the first part.
 
